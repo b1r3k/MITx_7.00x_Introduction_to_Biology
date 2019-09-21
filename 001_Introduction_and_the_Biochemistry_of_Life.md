@@ -53,6 +53,9 @@ electronegativity of O N >> S C H P
 ## Hydrophobic effect
 
 Hydrophobic molecules clump togheter to avoid disrupting hydrogen bonds e.g. oil
+Tworzone przez polar bonds (OH)
+
+To do: obrazek membrany.
 
 ## Van der Waals forces
 
